@@ -1,0 +1,15 @@
+.form {
+  background-color: red;
+  display: inline-block;
+  padding: 30px 50px;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.value_sec {
+  background-color: green;
+  text-align: center;
+}
